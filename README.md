@@ -43,4 +43,4 @@ Uno stato può contenere una macchina di stato:
 <img src="file:///C:/Users/Marco/AppData/Roaming/marktext/images/2022-05-03-11-20-35-image.png" title="" alt="" width="485">
 
 Esempio:
-<img src="file:///C:/Users/Marco/AppData/Roaming/marktext/images/2022-05-03-11-20-57-image.png" title="" alt="" width="515">
+![alt text](https://imgur.com/a/IGGdRrD)
